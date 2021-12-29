@@ -16,3 +16,5 @@ Social Info:
 [ArtStation](https://www.artstation.com/marcelvanduijn)
 [Instagram](https://www.instagram.com/marcelvanduijn_/)
 [GitHub](https://github.com/MarcelvanDuijnDev)
+
+_Donate (Crypto): **0x7FaA4ACF568F7fBdB907A5862962C755ddc381A1**_
