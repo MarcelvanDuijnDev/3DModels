@@ -8,7 +8,7 @@
 
 
 Social Info: 
-[Portfolio](https://www.marcelvanduijn.com/)
+[Website](https://marcelvanduijndev.github.io/Website/index.html)
 [Twitter](https://twitter.com/MarcelvanDuijn_)
 [LinkedIn](https://www.linkedin.com/in/marcel-van-duijn/)
 [Sketchfab](https://sketchfab.com/MarcelvanDuijn)
@@ -16,5 +16,3 @@ Social Info:
 [ArtStation](https://www.artstation.com/marcelvanduijn)
 [Instagram](https://www.instagram.com/marcelvanduijn_/)
 [GitHub](https://github.com/MarcelvanDuijnDev)
-
-_Donate (Crypto): **0x7FaA4ACF568F7fBdB907A5862962C755ddc381A1**_
